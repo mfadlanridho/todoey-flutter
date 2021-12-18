@@ -5,7 +5,7 @@
 
 ## Project Goal
 
-In this project is we understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
+Understanding how to manage state in Flutter. Various Flutter architecture choices and how to use the officially recommended Provider package to manage app state.
 
 ## What is todoey?
 
@@ -13,7 +13,7 @@ A todolist app to keep track of all your tasks.
 
 ## What I implemented
 
-- Implemented the Provider package and with ChangeNotifierProvider to listen for data from parent without needing to rebuild the intervening widgets.
+- Implemented the Provider package with ChangeNotifierProvider to listen for data from parent without needing to rebuild the intervening widgets.
 - Implemented the List Builder to create widget list.
 - Implemented the Flutter BottomSheet Widget for new todo input.
 
