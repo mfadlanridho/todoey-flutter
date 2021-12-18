@@ -1,5 +1,5 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp that i enrolled in, all the code is made by myself from scratch
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp that i enrolled in.
 
 # Todoey ✓
 
