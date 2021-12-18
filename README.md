@@ -1,30 +1,28 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp that i enrolled in, all the code is made by myself from scratch
 
 # Todoey ✓
 
-## Our Goal
+## Project Goal
 
-The objective of this tutorial is to understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
+In this project is we understand how to manage state in Flutter. We'll look at various Flutter architecture choices and learn to use the officially recommended Provider package to manage our app state.
 
-
-## What you will create
+## What is todoey?
 
 A todolist app to keep track of all your tasks.
 
-## What you will learn
+## What I implemented
 
-- Understand what is state and why we need to manage it.
-- Understand the difference between ephemeral (local) state and app state.
-- See the problems with simply relying on setState().
-- Learn about the concept of Prop Drilling.
-- Examine various popular ways of managing app state for Flutter projects.
-- Learn about the List Builder.
-- Use the Flutter BottomSheet Widget.
-- Learn to lift state up to be able to access it from children widgets.
-- Learn about design patterns and why they are useful.
-- Understand how the Provider package works and use it to manage app state.
+- Implemented the Provider package and with ChangeNotifierProvider to listen for data from parent without needing to rebuild the intervening widgets.
+- Implemented the List Builder to create widget list.
+- Implemented the Flutter BottomSheet Widget for new todo input.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## What I learned
+- The difference between ephemeral (local) state and app state.
+- The problems with simply relying on setState().
+- The concept of Prop Drilling.
+- Popular ways of managing app state for Flutter projects.
+- How to lift state up to be able to access it from children widgets.
+- Design patterns and why they are useful.
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
