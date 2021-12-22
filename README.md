@@ -25,4 +25,6 @@ A todolist app to keep track of all your tasks.
 - How to lift state up to be able to access it from children widgets.
 - Design patterns and why they are useful.
 
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
